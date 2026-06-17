@@ -6,3 +6,5 @@ __pycache__/
 
 # Opcional: Ignorar a pasta do seu ambiente virtual
 venv/
+
+ranking.csv
